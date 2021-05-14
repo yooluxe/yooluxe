@@ -5,4 +5,4 @@
 
 <sub>I do high-level UX and UI design to create incredibly simple and beautiful products.</sub> 
 
-<sub>I`m [Sublime Text](https://www.sublimetext.com/) lover. :walking: Me on [Package control](https://packagecontrol.io/browse/authors/luxelego).</sub> 
+<sub>I`m [Sublime Text](https://www.sublimetext.com/) lover :smile: Me on [Package control](https://packagecontrol.io/browse/authors/luxelego) :pencil:</sub> 
