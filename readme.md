@@ -1,7 +1,7 @@
 
 # I`m Yoko - product designer
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@luxelego/<0>"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@luxelego/<0>" alt="last article"></a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@luxelego/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@luxelego/0" alt="last article"></a>
 
 <sub>I do high-level UX and UI design to create incredibly simple and beautiful products.</sub> 
 
