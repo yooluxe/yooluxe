@@ -1,5 +1,5 @@
 
-## Hi :hand:, I'm Yoko
+## Hi :wave:, I'm Yoko
 
 <sub>I'm a **Product Designer** :books: & **Front-end Dev** :computer: working remotely. I'm specialized in the **full interaction** that users have with the web platform, from its design to its development, as well as usability, performance and accessibility. I love **walking** and listening **chillout** music.</sub>
 
