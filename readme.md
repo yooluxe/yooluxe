@@ -9,5 +9,3 @@
 Sublime Text : [Lotus Color Scheme](https://packagecontrol.io/packages/Lotus%20Color%20Scheme) / [Alpen Color Scheme](https://packagecontrol.io/packages/Alpen%20Color%20Scheme)
   
 VS Code : [Yojee theme](https://marketplace.visualstudio.com/items?itemName=Yoko-Luxelego.yojee) / [Alpen theme](https://marketplace.visualstudio.com/items?itemName=Yoko-Luxelego.alpen)
-
-<br/> 
